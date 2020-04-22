@@ -1,0 +1,113 @@
+{margin:0;padding:0}
+
+
+.container{ max-width:1000px; }
+
+.row{ padding-left:15px; padding-right:15px; }
+
+	p{
+		
+		text-align:justify;
+	}
+	
+	a{
+		display:block;
+		text-decoration:none;
+		padding:10px;
+		
+	}
+	a:hover{
+		
+		text-decoration:none;
+		
+		
+	}
+	
+	
+	body{
+		font-family:arial;
+	}
+	
+	
+	
+	
+	
+
+	
+	
+	.menu a{
+		display:block;
+		text-decoration:none;
+		padding:8px 8px;
+		color:white;
+		
+	}
+	.menu a:hover{ background:teal; }
+	
+	.menu ul li{ padding:8px 10px;}
+	
+	.sidebar a{
+		
+		color:teal;
+	}
+	
+	
+	
+	/*  Home    */
+	
+		.home{
+		height:600px;
+		background:url(Snapshots/217198.jpg) no-repeat;
+		background-size:100% 100%;
+		
+	}
+	
+	
+	/*  Kane    */
+	
+	.kane{
+		height:600px;
+		background:url(Snapshots/551918_10150702479441230_1012476254_n.jpg) no-repeat;
+		background-size:100% 100%;
+		
+	}
+	
+	
+	/*  Tottenham    */
+	
+	.tottenham{
+		height:600px;
+		background:url(Snapshots/sonkane.jpg) no-repeat;
+		background-size:100% 100%;
+		
+	}
+	
+	
+/*  Me    */
+	
+	.me{
+		height:600px;
+		background:url(Snapshots/me.jpg) no-repeat;
+		background-size:100% 100%;
+		
+	}
+	
+	
+	
+	
+	.this { background:teal;} 
+	
+	
+	.foot a{ display:inline-block;
+	padding-left:20px;
+	padding-right:20px;
+	
+	}
+	
+	.foot a:hover{ 
+	background:black;
+	}
+	
+	
+	
+	
